@@ -1,0 +1,15 @@
+/* src/styles/HomePage.css */
+.home-page {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .home-page h2 {
+    font-size: 32px;
+    color: #333;
+  }
+  
+  .home-page .btn-container {
+    margin-top: 20px;
+  }
+  
